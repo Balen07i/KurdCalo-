@@ -1,0 +1,3 @@
+# 128 MB server build: keep the dependency tree minimal.
+# Gemini is called through the standard-library REST API in vision.py.
+python-telegram-bot==21.4
